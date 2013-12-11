@@ -1,6 +1,7 @@
 Hypercane Build System for OUYA
 ====
 The Hypercane Build System for OUYA is a simple solution to get your Shiva engine games running on the OUYA with full gamepad integration and purchasing support.  The process works as follows.
+
 1. Generate an Android Project Zip from the Shiva UAT
 2. Load project zip into Hypercane Build System
 3. Press some buttons
@@ -9,6 +10,7 @@ The Hypercane Build System for OUYA is a simple solution to get your Shiva engin
 Prerequisites
 ====
 You need the following working on your system to be able to build.  If you can't build an android project in the shiva UAT, then you'll need to fix that before you can proceed.
+
 1. Android SDK 4.1.2
 2. Android NDK (latest)
 3. Ant
